@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+key.csv
+google_credentials.json
 
 # testing
 /coverage
